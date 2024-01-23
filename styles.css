@@ -9,14 +9,6 @@ body
     align-items: center;
     height: 100vh;
 }
-.profile-container 
-{
-    background-color: whitesmoke;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    width: 300px;
-}
 .profile-header {
     background-color: blueviolet;
     color: whitesmoke;
@@ -37,7 +29,7 @@ body
     text-align: center;
 }
 
-.profile-details h2 {
+.profile-details h2{
     margin-bottom: 5px;
 }
 
